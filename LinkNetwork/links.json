@@ -40,26 +40,6 @@
         "bName" : "Digi Serv"
     },
     {
-        "url" : "https://mpspatoaalta.com/",
-        "bKeyword" : "Manicure Pedicure Spa Toa Alta",
-        "bName" : "MP SPA Toa Alta"
-    },
-    {
-        "url" : "https://mpspaguaynabo.com/",
-        "bKeyword" : "Manicure Pedicure Spa Guaynabo",
-        "bName" : "MP SPA Guaynabo"
-    },
-    {
-        "url" : "https://mpspaisabela.com/",
-        "bKeyword" : "Manicure Pedicure Spa Isabela",
-        "bName" : "MP SPA Isabela"
-    },
-    {
-        "url" : "https://mpspacatano.com/",
-        "bKeyword" : "Manicure Pedicure Spa Cataño",
-        "bName" : "MP SPA Cataño"
-    },
-    {
         "url" : "https://laboratoriospr.com/",
         "bKeyword" : "Laboratorios",
         "bName" : "Laboratorios en Puerto Rico"
@@ -93,11 +73,6 @@
         "url" : "https://productosdonfelito.com/",
         "bKeyword" : "Longanizas Puerto Rico",
         "bName" : "Productos Don Felito"
-    },
-    {
-        "url" : "https://fuentesdieseldelivery.com/",
-        "bKeyword" : "Distribuidor de diesel Puerto Rico",
-        "bName" : "Fuentes Diesel Delivery"
     },
     {
         "url" : "https://farmaciaspr.com/",
@@ -213,11 +188,6 @@
         "url" : "https://ccdistributor.com/",
         "bKeyword" : "Baterias en Carolina",
         "bName" : "CC Distributor"
-    },
-    {
-        "url" : "https://superdiscountautopr.com/",
-        "bKeyword" : "Dealer en Dorado",
-        "bName" : "Super Discount Auto"
     },
     {
         "url" : "https://tacoriendomexican.com/",
