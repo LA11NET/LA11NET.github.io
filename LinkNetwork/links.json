@@ -5,6 +5,21 @@
         "bName" : "Carlys Boat Trip"
     },
     {
+        "url" : "https://autoremotespr.com/",
+        "bKeyword" : "Copias de llaves de carro",
+        "bName" : "Auto Remotes PR"
+    },
+    {
+        "url" : "https://labarrita4x4.com/",
+        "bKeyword" : "Restaurante en Barranquitas",
+        "bName" : "La Barrita 4x4"
+    },
+    {
+        "url" : "https://jirehsteel.com/",
+        "bKeyword" : "Pasamanos y barandas en Stainless Steel",
+        "bName" : "Jireh Steel Service PR"
+    },
+    {
         "url" : "https://gimnasiospr.com/",
         "bKeyword" : "Gimnasios",
         "bName" : "Gimnasios en Puerto Rico"
@@ -18,11 +33,6 @@
         "url" : "https://triplencarrentalpr.com/",
         "bKeyword" : "Car rental bayamon",
         "bName" : "Triple N Car Rental Bayamon"
-    },
-    {
-        "url" : "https://prohealthambulance.com/",
-        "bKeyword" : "Ambulancias San Juan",
-        "bName" : "Pro Health Ambulance"
     },
     {
         "url" : "https://la11.info/",
@@ -55,14 +65,29 @@
         "bName" : "Digi Serv"
     },
     {
-        "url" : "https://laboratoriospr.com/",
-        "bKeyword" : "Laboratorios",
-        "bName" : "Laboratorios en Puerto Rico"
+        "url" : "https://lucysautoparts.com/",
+        "bKeyword" : "Auto parts Barranquitas Naranjito Aibonito",
+        "bName" : "Lucy's Auto Part"
+    },
+    {
+        "url" : "https://lucysautoparts.com/",
+        "bKeyword" : "Auto parts Barranquitas Naranjito Aibonito",
+        "bName" : "Lucy's Auto Part"
+    },
+    {
+        "url" : "https://d5advertising.com/",
+        "bKeyword" : "Dvision 5 Advertising",
+        "bName" : "Miami Digital Marketing Agency"
     },
     {
         "url" : "https://elockpr.com/",
         "bKeyword" : "Cerrajero Carolina",
         "bName" : "E-Lock"
+    },
+    {
+        "url" : "https://laboratoriosoram.com/",
+        "bKeyword" : "Laboratorio en Coamo",
+        "bName" : "Laboratorio Soram"
     },
     {
         "url" : "https://fundacionpuertorriquenadeparkinson.com/",
@@ -138,6 +163,11 @@
         "url" : "https://atugustopizza.com/",
         "bKeyword" : "Pizzeria en San Juan",
         "bName" : "A Tu Gusto Pizza"
+    },
+    {
+        "url" : "https://mrmpr.net/",
+        "bKeyword" : "Ingeniero Aibonito",
+        "bName" : "MRM Engineers And Architects Consultants"
     },
     {
         "url" : "https://maxipawspr.com/",
